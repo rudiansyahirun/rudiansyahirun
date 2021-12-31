@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on GitHub.
-- 📫 You can reach me by searching "rudiansyahirun" at all social media.
+- 📫 You could reach me by search "rudiansyahirun" at all social media.
 
 <!---
 rudiansyahirun/rudiansyahirun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
